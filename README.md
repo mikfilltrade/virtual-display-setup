@@ -29,7 +29,7 @@ This script provides multiple options for setting up virtual displays with diffe
 
 2. Run the script:
    ```bash
-   ./setup.sh
+   ./setup_virtual_display.sh
    ```
 
 3. Select your preferred option from the menu.
