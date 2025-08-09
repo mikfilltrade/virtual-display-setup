@@ -23,7 +23,7 @@ This script provides multiple options for setting up virtual displays with diffe
 
 1. Download the script:
    ```bash
-   curl -O https://raw.githubusercontent.com/your-repo/virtual-display-setup/main/setup.sh
+   curl -O https://raw.githubusercontent.com/mikfilltrade/virtual-display-setup/refs/heads/main/setup_virtual_display.sh
    chmod +x setup.sh
    ```
 
